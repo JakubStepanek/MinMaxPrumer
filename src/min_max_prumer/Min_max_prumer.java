@@ -12,7 +12,7 @@ public class Min_max_prumer {
         int pocet = 0;
         // nekonečná smyčka
         while (true) {
-            // zvětší pičítadlo vložených čísel
+            // zvětší počítadlo vložených čísel
             pocet++;
 
             System.out.print("vlož: " + pocet + ". číslo: ");
